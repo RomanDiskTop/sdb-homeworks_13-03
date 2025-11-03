@@ -26,6 +26,8 @@
 - установите **Suricata**,
 
 ```
+sudo apt install -y Suricata
+
 
 ```
 
